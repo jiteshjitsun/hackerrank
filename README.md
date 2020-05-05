@@ -1,2 +1,2 @@
 # hackerrank
-this is the solution of hackerrank question swap case
+you will find solution of some hackerrank problems here
